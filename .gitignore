@@ -75,3 +75,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SurvivalAssets.zip
+SurvivalAssets/
+Content/InfinityBladeFireLands/
+Content/Protoss_Structure/
+Content/InfinityBladeGrassLands/
+Content/Assets/Knight/Textures/
+Content/Assets/Knight/Animations/
